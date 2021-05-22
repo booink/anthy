@@ -1,0 +1,7 @@
+version: '3'
+services:
+  anthy:
+    build:
+      context: .
+    volumes:
+      - .:/app
