@@ -26,7 +26,7 @@ AC_OUTPUT(Makefile
  src-main/Makefile src-util/Makefile
  anthy/Makefile
  depgraph/Makefile mkanthydic/Makefile mkworddic/Makefile
- mkworddic/dict.args test/Makefile
+ mkworddic/dict.args 
  alt-cannadic/Makefile
  doc/Makefile calctrans/Makefile
  anthy-conf anthy-test-conf anthy.spec anthy.pc)
